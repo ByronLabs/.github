@@ -1,12 +1,12 @@
 ## Byron Labs 
 
-<!--
+![LOGO_WH](https://github.com/ByronLabs/.github/assets/2520132/876379f0-2cac-4039-b687-6df34493d0c3)
 
-**Here are some ideas to get you started:**
+👩‍💻 Byron Labs is a cybersecurity Startup expert in developing novel and innovative cybersecurity research solutions such as Continuous Authentication Systems, and Threat Intelligence products.  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Born in the University of Alcalá after years of research, several of its founders' members are Doctors in Computer Science. Science is rooted in the origins and foundations of Byron Labs. 
+
+🍿 Interesting in what we do? Check out our open-source repositories 
+
+🧙 Looking for a cybersecurity job contact jobs [at] byronlabs.io 
+
