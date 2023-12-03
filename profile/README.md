@@ -1,6 +1,8 @@
 ## Byron Labs 
 
-![LOGO_WH](https://github.com/ByronLabs/.github/assets/2520132/876379f0-2cac-4039-b687-6df34493d0c3)
+<p align="center" width="100%">
+  <img src="https://github.com/ByronLabs/.github/assets/2520132/876379f0-2cac-4039-b687-6df34493d0c3" width="500">
+</p>
 
 👩‍💻 Byron Labs is a cybersecurity Startup expert in developing novel and innovative cybersecurity research solutions such as Continuous Authentication Systems, and Threat Intelligence products.  
 
